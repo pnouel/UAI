@@ -14,7 +14,7 @@ namespace Ejercicio_07
 
             //    teniendo cuenta que la relacione es
             //1 byte 8 bits
-            //        1 kilobyte 1024 bytes
+            //        1 kilobyte 1000 bytes
             //        Se llega a la siguiente solucion
 
             long cantKBytes = 0;
