@@ -1,0 +1,9 @@
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorios_2_C_1_TiposFechas\bin\Debug\Laboratorios_2_C_1_TiposFechas.exe.config
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorios_2_C_1_TiposFechas\bin\Debug\Laboratorios_2_C_1_TiposFechas.exe
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorios_2_C_1_TiposFechas\bin\Debug\Laboratorios_2_C_1_TiposFechas.pdb
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorios_2_C_1_TiposFechas\obj\Debug\Laboratorios_2_C_1_TiposFechas.FormTiposFechas.resources
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorios_2_C_1_TiposFechas\obj\Debug\Laboratorios_2_C_1_TiposFechas.Properties.Resources.resources
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorios_2_C_1_TiposFechas\obj\Debug\Laboratorios_2_C_1_TiposFechas.csproj.GenerateResource.cache
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorios_2_C_1_TiposFechas\obj\Debug\Laboratorios_2_C_1_TiposFechas.csproj.CoreCompileInputs.cache
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorios_2_C_1_TiposFechas\obj\Debug\Laboratorios_2_C_1_TiposFechas.exe
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorios_2_C_1_TiposFechas\obj\Debug\Laboratorios_2_C_1_TiposFechas.pdb

@@ -1,0 +1,10 @@
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_A_1\obj\Debug\Laboratorio_2_A_1_Vectores.csprojAssemblyReference.cache
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_A_1\obj\Debug\Laboratorio_2_A_1.Form1.resources
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_A_1\obj\Debug\Laboratorio_2_A_1.Properties.Resources.resources
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_A_1\obj\Debug\Laboratorio_2_A_1_Vectores.csproj.GenerateResource.cache
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_A_1\obj\Debug\Laboratorio_2_A_1_Vectores.csproj.CoreCompileInputs.cache
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_A_1\bin\Debug\Laboratorio_2_A_1.exe.config
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_A_1\bin\Debug\Laboratorio_2_A_1.exe
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_A_1\bin\Debug\Laboratorio_2_A_1.pdb
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_A_1\obj\Debug\Laboratorio_2_A_1.exe
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_A_1\obj\Debug\Laboratorio_2_A_1.pdb

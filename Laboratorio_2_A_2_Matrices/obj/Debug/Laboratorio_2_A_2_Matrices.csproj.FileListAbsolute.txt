@@ -1,0 +1,10 @@
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_A_2_Matrices\bin\Debug\Laboratorio_2_A_2_Matrices.exe.config
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_A_2_Matrices\bin\Debug\Laboratorio_2_A_2_Matrices.exe
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_A_2_Matrices\bin\Debug\Laboratorio_2_A_2_Matrices.pdb
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_A_2_Matrices\obj\Debug\Laboratorio_2_A_2_Matrices.Form1.resources
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_A_2_Matrices\obj\Debug\Laboratorio_2_A_2_Matrices.Properties.Resources.resources
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_A_2_Matrices\obj\Debug\Laboratorio_2_A_2_Matrices.csproj.GenerateResource.cache
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_A_2_Matrices\obj\Debug\Laboratorio_2_A_2_Matrices.csproj.CoreCompileInputs.cache
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_A_2_Matrices\obj\Debug\Laboratorio_2_A_2_Matrices.exe
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_A_2_Matrices\obj\Debug\Laboratorio_2_A_2_Matrices.pdb
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_A_2_Matrices\obj\Debug\Laboratorio_2_A_2_Matrices.csprojAssemblyReference.cache

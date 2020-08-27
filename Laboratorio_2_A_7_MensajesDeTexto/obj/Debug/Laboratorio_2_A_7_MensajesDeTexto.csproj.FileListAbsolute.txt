@@ -1,0 +1,9 @@
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_A_7_MensajesDeTexto\bin\Debug\Laboratorio_2_A_7_MensajesDeTexto.exe.config
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_A_7_MensajesDeTexto\bin\Debug\Laboratorio_2_A_7_MensajesDeTexto.exe
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_A_7_MensajesDeTexto\bin\Debug\Laboratorio_2_A_7_MensajesDeTexto.pdb
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_A_7_MensajesDeTexto\obj\Debug\Laboratorio_2_A_7_MensajesDeTexto.FormMensajesTxt.resources
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_A_7_MensajesDeTexto\obj\Debug\Laboratorio_2_A_7_MensajesDeTexto.Properties.Resources.resources
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_A_7_MensajesDeTexto\obj\Debug\Laboratorio_2_A_7_MensajesDeTexto.csproj.GenerateResource.cache
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_A_7_MensajesDeTexto\obj\Debug\Laboratorio_2_A_7_MensajesDeTexto.csproj.CoreCompileInputs.cache
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_A_7_MensajesDeTexto\obj\Debug\Laboratorio_2_A_7_MensajesDeTexto.exe
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_A_7_MensajesDeTexto\obj\Debug\Laboratorio_2_A_7_MensajesDeTexto.pdb

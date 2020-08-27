@@ -1,0 +1,9 @@
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_A_5_BarraProgreso\obj\Debug\Laboratorio_2_A_5_BarraProgreso.FormBarraProgreso.resources
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_A_5_BarraProgreso\obj\Debug\Laboratorio_2_A_5_BarraProgreso.Properties.Resources.resources
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_A_5_BarraProgreso\obj\Debug\Laboratorio_2_A_5_BarraProgreso.csproj.GenerateResource.cache
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_A_5_BarraProgreso\obj\Debug\Laboratorio_2_A_5_BarraProgreso.csproj.CoreCompileInputs.cache
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_A_5_BarraProgreso\bin\Debug\Laboratorio_2_A_5_BarraProgreso.exe.config
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_A_5_BarraProgreso\bin\Debug\Laboratorio_2_A_5_BarraProgreso.exe
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_A_5_BarraProgreso\bin\Debug\Laboratorio_2_A_5_BarraProgreso.pdb
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_A_5_BarraProgreso\obj\Debug\Laboratorio_2_A_5_BarraProgreso.exe
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_A_5_BarraProgreso\obj\Debug\Laboratorio_2_A_5_BarraProgreso.pdb

@@ -1,0 +1,3 @@
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorios_2_C_2_OperacionesConFechas1\obj\Debug\Laboratorios_2_C_2_OperacionesConFechas1.Properties.Resources.resources
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorios_2_C_2_OperacionesConFechas1\obj\Debug\Laboratorios_2_C_2_OperacionesConFechas1.csproj.GenerateResource.cache
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorios_2_C_2_OperacionesConFechas1\obj\Debug\Laboratorios_2_C_2_OperacionesConFechas1.csproj.CoreCompileInputs.cache

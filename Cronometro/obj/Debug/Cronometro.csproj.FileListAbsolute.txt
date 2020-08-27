@@ -1,0 +1,10 @@
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Cronometro\bin\Debug\Cronometro.exe.config
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Cronometro\bin\Debug\Cronometro.exe
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Cronometro\bin\Debug\Cronometro.pdb
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Cronometro\obj\Debug\Cronometro.Cronometro.resources
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Cronometro\obj\Debug\Cronometro.Properties.Resources.resources
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Cronometro\obj\Debug\Cronometro.csproj.GenerateResource.cache
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Cronometro\obj\Debug\Cronometro.csproj.CoreCompileInputs.cache
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Cronometro\obj\Debug\Cronometro.exe
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Cronometro\obj\Debug\Cronometro.pdb
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Cronometro\obj\Debug\Cronometro.csprojAssemblyReference.cache

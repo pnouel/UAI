@@ -1,0 +1,10 @@
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_B_ManejoStrings\bin\Debug\Laboratorio_2_B_ManejoStrings.exe.config
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_B_ManejoStrings\bin\Debug\Laboratorio_2_B_ManejoStrings.exe
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_B_ManejoStrings\bin\Debug\Laboratorio_2_B_ManejoStrings.pdb
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_B_ManejoStrings\obj\Debug\Laboratorio_2_B_ManejoStrings.FormManejoStrings.resources
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_B_ManejoStrings\obj\Debug\Laboratorio_2_B_ManejoStrings.Properties.Resources.resources
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_B_ManejoStrings\obj\Debug\Laboratorio_2_B_3_ManejoStrings.csproj.GenerateResource.cache
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_B_ManejoStrings\obj\Debug\Laboratorio_2_B_3_ManejoStrings.csproj.CoreCompileInputs.cache
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_B_ManejoStrings\obj\Debug\Laboratorio_2_B_ManejoStrings.exe
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_B_ManejoStrings\obj\Debug\Laboratorio_2_B_ManejoStrings.pdb
+C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_B_ManejoStrings\obj\Debug\Laboratorio_2_B_3_ManejoStrings.csprojAssemblyReference.cache
