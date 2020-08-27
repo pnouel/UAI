@@ -1,9 +1,0 @@
-C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_B_FormatoFecha\bin\Debug\Laboratorio_2_B_FormatoFecha.exe.config
-C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_B_FormatoFecha\bin\Debug\Laboratorio_2_B_FormatoFecha.exe
-C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_B_FormatoFecha\bin\Debug\Laboratorio_2_B_FormatoFecha.pdb
-C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_B_FormatoFecha\obj\Debug\Laboratorio_2_B_FormatoFecha.FormFormatoNumero.resources
-C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_B_FormatoFecha\obj\Debug\Laboratorio_2_B_FormatoFecha.Properties.Resources.resources
-C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_B_FormatoFecha\obj\Debug\Laboratorio_2_B_1_FormatoNumero.csproj.GenerateResource.cache
-C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_B_FormatoFecha\obj\Debug\Laboratorio_2_B_1_FormatoNumero.csproj.CoreCompileInputs.cache
-C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_B_FormatoFecha\obj\Debug\Laboratorio_2_B_FormatoFecha.exe
-C:\Users\petro\source\repos\Laboratorio_2_A_1\Laboratorio_2_B_FormatoFecha\obj\Debug\Laboratorio_2_B_FormatoFecha.pdb

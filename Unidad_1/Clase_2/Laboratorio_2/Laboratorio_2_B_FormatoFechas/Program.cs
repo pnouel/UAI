@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Laboratorio_2_B_FormatoFecha
+namespace Laboratorio_2_B_FormatoNumeros
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace Laboratorio_2_B_FormatoFecha
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormFormatoNumero());
+            Application.Run(new FormFormatoFecha());
         }
     }
 }

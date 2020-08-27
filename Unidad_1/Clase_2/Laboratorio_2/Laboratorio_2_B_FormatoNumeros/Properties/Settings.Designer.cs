@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Laboratorio_2_B_FormatoNumeros.Properties
+namespace Laboratorio_2_B_FormatoFecha.Properties
 {
 
 

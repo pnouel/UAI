@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Laboratorio_2_B_FormatoFecha.Properties
+namespace Laboratorio_2_B_FormatoNumeros.Properties
 {
 
 
@@ -44,7 +44,7 @@ namespace Laboratorio_2_B_FormatoFecha.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Laboratorio_2_B_FormatoFecha.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Laboratorio_2_B_FormatoNumeros.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

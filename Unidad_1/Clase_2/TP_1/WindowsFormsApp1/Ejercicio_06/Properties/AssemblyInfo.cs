@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Laboratorio_2_B_FormatoFecha")]
+[assembly: AssemblyTitle("Ejercicio_06")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Laboratorio_2_B_FormatoFecha")]
+[assembly: AssemblyProduct("Ejercicio_06")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("b055170f-0f38-4339-b118-c8c75998eb96")]
+[assembly: Guid("2321211f-a0a6-42f5-a611-7f8f72260616")]
 
 // Version information for an assembly consists of the following four values:
 //
