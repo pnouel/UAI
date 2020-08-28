@@ -12,7 +12,7 @@ namespace Ejercicio_12
         {
             //Mostrar la fecha y hora actual.
             DateTime fecha = DateTime.Now;
-            Console.WriteLine("Fecha Actual es {0}",fecha.ToShortDateString());
+            Console.WriteLine("Fecha Actual es {0}",fecha.ToString());
         }
     }
 }
