@@ -29,9 +29,6 @@ namespace Ejercicio_14
 
 
 
-            //Console.WriteLine("Fecha Actual es {0}", string.Format("{0:d}", fecha.ToString("yyyy/MM/dd")));
-
-
         }
     }
 }
