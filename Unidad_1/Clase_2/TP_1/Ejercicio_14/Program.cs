@@ -10,6 +10,28 @@ namespace Ejercicio_14
     {
         static void Main(string[] args)
         {
+
+           // Dadas dos fechas calcular la diferencia en días entre una y la otra
+            DateTime primeraFecha;
+            DateTime segundaFecha;
+            TimeSpan daysDiff;
+            int diferenciaEntera;
+            Console.WriteLine("Ingresela primera fecha:");
+            primeraFecha = Convert.ToDateTime(Console.ReadLine());
+            
+            Console.WriteLine("Ingresela primera fecha:");
+            segundaFecha = Convert.ToDateTime(Console.ReadLine());
+           
+            daysDiff = ( primeraFecha.Subtract(segundaFecha));
+           diferenciaEntera = Math.Abs( Convert.ToInt32(daysDiff.TotalDays)); 
+
+            Console.WriteLine(diferenciaEntera);
+
+
+
+            //Console.WriteLine("Fecha Actual es {0}", string.Format("{0:d}", fecha.ToString("yyyy/MM/dd")));
+
+
         }
     }
 }
